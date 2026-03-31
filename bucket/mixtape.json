@@ -1,10 +1,10 @@
 {
-  "version": "0.1.9",
+  "version": "0.2.0",
   "description": "Personal YouTube music downloader with a Y2K retro aesthetic",
   "homepage": "https://github.com/Margarets00/mixtape",
   "license": "MIT",
-  "url": "https://github.com/Margarets00/mixtape/releases/download/v$version/mixtape_$version_x64-setup-np.exe",
-  "hash": "PLACEHOLDER_SHA256_WINDOWS_EXE",
+  "url": "https://github.com/Margarets00/mixtape/releases/download/v0.2.0/mixtape_0.2.0_x64-setup-np.exe",
+  "hash": "2e54cea9160dccb6ed1b34f6c583b010363a98597296008a94192872e77b1e30",
   "installer": {
     "script": "$dir\\mixtape_$version_x64-setup-np.exe /S"
   },
